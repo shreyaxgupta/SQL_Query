@@ -1,9 +1,3 @@
--- doitsqlx.rhsmith.umd.edu,9402 
-
--- Use louiqa
--- Use BMGT402_DB_Instructor_01
--- Use BMGT402_DB_Student_xxx
-
 -- Script dreamhomerental_sqlserver_student.sql will create the following tables: 
 
 -- Branch(branchNo, street, city, postcode)
